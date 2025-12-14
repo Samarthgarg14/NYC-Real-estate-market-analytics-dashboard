@@ -23,15 +23,15 @@ The dashboard enables stakeholders to gain **actionable insights** through intui
 
 ### Screenshots
 ![Dashboard Screenshot 1](Assets/1.jpeg)
-![Dashboard Screenshot 2](Assests/2.jpeg)
-![Dashboard Screenshot 3](Assests/3.jpeg)
+![Dashboard Screenshot 2](Assets/2.jpeg)
+![Dashboard Screenshot 3](Assets/3.jpeg)
 
 ---
 
 ## 🎥 Dashboard Walkthrough Video
 Click the link below to view the full dashboard demonstration:
 
-[▶ Watch Dashboard Demo](Assets/DashboardVDO.mp4)
+[▶ Watch Dashboard Demo](Assets/Dashboard VDO.mp4)
 
 ---
 
