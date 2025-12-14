@@ -28,13 +28,6 @@ The dashboard enables stakeholders to gain **actionable insights** through intui
 
 ---
 
-## 🎥 Dashboard Walkthrough Video
-Click the link below to view the full dashboard demonstration:
-
-[▶ Watch Dashboard Demo](Assets/Dashboard VDO.mp4)
-
----
-
 ## 🛠 Tools & Technologies
 - Microsoft Power BI  
 - Power Query (Data Cleaning & Transformation)  
